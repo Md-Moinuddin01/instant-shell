@@ -1,0 +1,31 @@
+{
+  "name": "instant-shell",
+  "version": "0.1.0",
+  "description": "Instant access to your developer shell - lightweight CLI turning common terminal workflows into simple commands",
+  "type": "module",
+  "main": "src/cli.js",
+  "bin": {
+    "is": "./bin/is.js",
+    "instant-shell": "./bin/is.js"
+  },
+  "scripts": {
+    "start": "node ./bin/is.js",
+    "test": "node --test test/cli.test.js"
+  },
+  "keywords": [
+    "cli",
+    "developer-tools",
+    "terminal",
+    "ports",
+    "git",
+    "diagnostics",
+    "clean",
+    "shortcuts",
+    "shell"
+  ],
+  "author": "Instant Shell Contributors",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
