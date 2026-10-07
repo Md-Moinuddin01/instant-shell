@@ -2,6 +2,8 @@
 
 > **Instant access to your developer shell.**
 
+<img width="1863" height="853" alt="ooo" src="https://github.com/user-attachments/assets/f9b8653e-376a-46d9-a263-33486faf2178" />
+
 **Instant Shell** is a lightweight developer CLI that turns common terminal workflows into simple, memorable commands.
 
 Instead of remembering long commands for setup, diagnostics, Git, ports, cleanup, and project utilities, use one small command:
